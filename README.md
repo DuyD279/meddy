@@ -1,5 +1,7 @@
 # Meddy: Your Friendly Medical Assistant AI
 
+Youtube: https://www.youtube.com/watch?v=v3aB5pym91A
+
 Meddy is an app designed to bridge the communication gap between patients and doctors. It primarily caters to:
 
 - Non-English speakers
